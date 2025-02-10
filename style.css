@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+header {
+    background-color:aquamarine;
+    color:black;
+}
+header a {
+    background-color: white;
+    text-decoration: none;
+    border-radius:4px ;
+    
+
+}
+h1 {
+    color: slateblue;
+    text-align: center;
+    background-color: aqua;
+    border-radius:8px ;
+}
+footer p {
+    border:5px solid salmon
+    
+}
+main a {
+    background-color: skyblue;
+    border-radius: 5px;
+    text-decoration:none;
+    
+    
+}
+select {
+    background-color: slateblue;
+}
